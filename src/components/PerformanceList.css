@@ -1,0 +1,32 @@
+#performance-section {
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+    margin: auto;
+}
+.performance-box {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    background-color: black;
+}
+.box-text {
+    height: 250px;
+    padding: 0px 10px;
+    width: 80%;
+    text-align: center;
+}
+
+/* .box-image {} */
+
+.box-text h3 {
+    font-size: 25px;
+}
+
+.box-text p {
+    font-size: 20px;
+}
+
+.box-image img {
+    width: 100%;
+}

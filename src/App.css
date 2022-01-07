@@ -1,4 +1,19 @@
-.App {
+body {
+  font-family: 'Amatic SC', cursive;
+  color: white;
+}
+
+
+
+.title-performance {
+  text-align: center;
+  margin-top: 40%;
+}
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +50,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

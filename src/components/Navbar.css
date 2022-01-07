@@ -1,0 +1,13 @@
+#title-circus {
+    text-align: center;
+    color: white;
+}
+
+.menu {
+    list-style-type: none;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
