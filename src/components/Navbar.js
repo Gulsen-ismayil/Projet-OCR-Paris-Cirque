@@ -1,7 +1,7 @@
 import './Navbar.css'
 
 const menu = ['HOME','PERFORMANCES','ABOUT US','PRICES','CONTACT'];
-const title = "Paris Circus";
+const title = "Paris Cirque";
 
 function Navbar(){
     return(
